@@ -7,4 +7,4 @@ Features Implemented:
 3)Erase
 4)Front
 5)Back
-6)pop
+6)pop_back
